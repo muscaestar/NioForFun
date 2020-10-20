@@ -148,3 +148,5 @@ HELP.md
 /arthas-output/
 /Streaming_Linux_memory.csv
 /Streaming_Linux_process.csv
+/Copy_Streaming_Linux_process.csv
+/Copy_Streaming_Linux_memory.csv
